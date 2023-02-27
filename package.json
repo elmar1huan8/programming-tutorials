@@ -1,7 +1,7 @@
 {
-  "name": "sj5sjl",
+  "name": "Android app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learning how to build an android app. This is while being used with the Googlesource.com Android app building tutorial",
   "keywords": [],
   "main": "/index.html",
   "dependencies": {}
